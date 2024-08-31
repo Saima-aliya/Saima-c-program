@@ -39,3 +39,12 @@ result +=pow(reminder,digits);
 originalNum/=10;
 
 }
+if(result==n)
+
+printf("%d is an Armstrong number.\n",n);
+
+else
+
+printf("%d is not an Armstrong number.\n",n);
+
+}
